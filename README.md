@@ -16,4 +16,8 @@ Student Registration and Profile Management Application
 4. Open forwarded port 3000. 
 ## Documentation 
 Submitted separately as one PDF through Microsoft Teams. 
+<<<<<<< HEAD
 Replace the template placeholders with your actual information.
+=======
+Replace the template placeholders with your actual information.
+>>>>>>> 172ffeb (Complete MADF1 Flutter laboratory activity)
