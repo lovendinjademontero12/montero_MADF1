@@ -1,10 +1,10 @@
 # MADF1 - Flutter Navigation, Forms, and User Input 
 ## Student Information 
-Full Name: 
-Section: 
+Full Name: Montero, Lovendin Jade D.
+Section: BSIT - 3A
 Course: Mobile Application Development 
 ## Repository 
-Name: last_name_MADF1 
+Name: montero_MADF1 
 ## Application 
 Student Registration and Profile Management Application 
 ## Technologies - Flutter - Dart - GitHub Codespaces 
